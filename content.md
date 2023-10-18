@@ -2,7 +2,10 @@
 
 We use forms to collect information from users. Only by submitting this information to our application, and processing it, does our application start to become interesting.
 
-**Note:** Since our embedded runnable code blocks can't open links in new tabs, you'll have to experiment with some of the examples below in a real live application preview. You should create a new repo using the [html-template](https://github.com/appdev-projects/html-template) and set up a Codespace for that.
+<div class="bg-blue-100 py-1 px-5" markdown="1">
+
+**Note:** Since our embedded runnable code blocks can't open links in new tabs, you'll have to experiment with some of the examples below in a real live application preview. You should create a new repo using the [html-template to create a new repository from a "template" (rather than forking)](https://learn.firstdraft.com/lessons/220-html-template) and set up a codespace for that.
+</div>
 
 ## A bare bones HTML form
 
