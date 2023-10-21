@@ -203,7 +203,7 @@ You can give the user some hints using the `placeholder` attribute:
 
 ```html
 <form action="/process_form">
-  <input name="email" palceholder="Enter your email...">
+  <input name="email" placeholder="Enter your email...">
   <button>Submit</button>
 </form>
 ```
